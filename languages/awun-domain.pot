@@ -1,0 +1,174 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Update Notification per Mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-19 08:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: options-page/custom-options.php:5
+msgid ""
+"\n"
+"<p>Dear WordPress user,</p>\n"
+"<p>This is an automatic generated E-Mail. There are new Updates for your "
+"website available.</p>\n"
+"<p>You should check these updates and install them if necessary, in order to "
+"protect yourself against any security gaps and also hacker attacks.</p>\n"
+"<p>If you are not a web developer, please consider hiring one for this task."
+"</p>\n"
+"<p><strong>Please be aware, that updating can lead to visual and fatal "
+"problems!</strong></p>\n"
+msgstr ""
+
+#: options-page/custom-options.php:13
+msgid ""
+"\n"
+"<p>You can update your WordPress-Plugins [UPDATE-LINK here]</p>\n"
+"<p>If you want to configure your E-Mail settings, you can do this [ADMIN-"
+"LINK here]</p>\n"
+msgstr ""
+
+#: options-page/custom-options.php:25
+msgid "Activate the mailing functionality"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Automatic E-mail notifications for outdated plugins. Select multiple "
+"recipients and use our beautiful E-mail layout with plugin thumbnails."
+msgstr ""
+
+#. Author of the plugin
+msgid "AWEOS GmbH"
+msgstr ""
+
+#: options-page/custom-options.php:76
+msgid ""
+"Color for the banner on top of the e-mail template, the banner comes "
+"together with the logo. That means if you dont have a logo there will be no "
+"banner"
+msgstr ""
+
+#: options-page/custom-options.php:112
+msgid "E-Mail Content Footer"
+msgstr ""
+
+#: options-page/custom-options.php:105
+msgid "E-Mail Content Header"
+msgstr ""
+
+#: options-page/custom-options.php:93
+msgid "E-Mail Headline"
+msgstr ""
+
+#: options-page/custom-options.php:38
+msgid "E-Mail Recipients"
+msgstr ""
+
+#: options-page/custom-options.php:87
+msgid "E-Mail Subject"
+msgstr ""
+
+#: options-page/custom-options.php:99
+msgid "E-Mail Subtitle"
+msgstr ""
+
+#: options-page/custom-options.php:94
+msgid "Headline inside the E-Mails body"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://aweos.de"
+msgstr ""
+
+#: options-page/custom-options.php:70
+msgid ""
+"Insert an URL for your logo, the logo will be placed at the top of your e-"
+"mail template."
+msgstr ""
+
+#: options-page/custom-options.php:69
+msgid "Logo"
+msgstr ""
+
+#: options-page/custom-options.php:75
+msgid "Mail Color"
+msgstr ""
+
+#: options-page/custom-options.php:18
+msgid "New Updates Available | WordPress Update Notification per Mail"
+msgstr ""
+
+#: options-page/custom-options.php:22
+msgid "Plugin is active"
+msgstr ""
+
+#: options-page/custom-options.php:39
+msgid ""
+"Put each E-Mail in a seperate line if you want the E-Mail to be sended to "
+"multiple people."
+msgstr ""
+
+#: options-page/custom-options.php:50
+msgid "Schedule"
+msgstr ""
+
+#: plugin.php:61
+msgid "Settings"
+msgstr ""
+
+#: options-page/custom-options.php:100
+msgid "Subtitle placed after the headline"
+msgstr ""
+
+#: options-page/custom-options.php:88
+msgid "Type in your E-Mail Subject, we recommend to insert about 7 words"
+msgstr ""
+
+#: options-page/custom-options.php:23
+msgid ""
+"We recommend you to to check and approve your options before you activate "
+"this plugin, the initial e-mail should be sended two hours after you set "
+"this plugin up."
+msgstr ""
+
+#: options-page/options-page.php:43
+#, php-format
+msgid ""
+"Welcome to the admin area from 'WP Update Notification per Mail', you can "
+"configure this plugin with multiple recipients and a custom schedule. %s "
+"Dont forget to test the e-mail to see if you configured something wrong and "
+"the e-mail is not going out"
+msgstr ""
+
+#. Name of the plugin
+#: options-page/options-page.php:40
+msgid "WP Update Notification per Mail"
+msgstr ""
+
+#: options-page/custom-options.php:106
+msgid ""
+"Write the content that will be sended via E-Mail, this text will appear "
+"above the plugin list and should probable tell the reciepents: that this is "
+"an automated e-mail,  recommend to install the new versions, warn about "
+"incompatibility problems."
+msgstr ""
+
+#: options-page/custom-options.php:113
+msgid ""
+"Write the content that will be sended via E-Mail, this text will appear "
+"under the plugin list and will be colored lite gray, this can be the right "
+"place for legal disclosures but also a few links like the plugin and admin "
+"pages. Use [UPDATE-LINK click-here] to get a link to the /plugins.php page "
+"and [ADMIN-LINK click-here] for the /wp-admin area, where the second part is "
+"an individual anchor-text"
+msgstr ""
